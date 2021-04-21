@@ -24,6 +24,6 @@ System.out.println();
 
 }   
  
-System.out.println("Thanks for new commit");  
+System.out.println("Thanks for new to check");  
 }
 }  
